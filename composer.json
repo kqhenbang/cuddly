@@ -1,0 +1,15 @@
+{
+    "name": "kqhenbang/cuddly",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "strong kong",
+            "email": "kqhenbang@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    }
+}
